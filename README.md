@@ -10,6 +10,39 @@ A design engineer building for the web. I care about how a product feels to use,
 - [Shortcuts Manager](https://github.com/Shuuren/shortcuts-manager), a visual manager for macOS system, Raycast, and LeaderKey shortcuts
 - [Naga Build Check](https://naga-build-check-redesigned.vercel.app/), redesign of a government tool prototype
 
+## Project snapshots
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://naga-build-check-redesigned.vercel.app/">
+        <img src="https://raw.githubusercontent.com/Shuuren/Shuuren/main/assets/naga-build-check.jpg" alt="Naga Build Check preview" width="100%">
+      </a>
+      <br>
+      <strong>Naga Build Check</strong><br>
+      <sub>A government tool redesign for site evaluation and permit guidance.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Shuuren/youtube-zen-theater">
+        <img src="https://raw.githubusercontent.com/Shuuren/Shuuren/main/assets/youtube-zen-theater.jpg" alt="YouTube Zen Theater preview" width="100%">
+      </a>
+      <br>
+      <strong>YouTube Zen Theater</strong><br>
+      <sub>A viewport-filling YouTube theater mode without browser full-screen.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://renshu.me/">
+        <img src="https://raw.githubusercontent.com/Shuuren/Shuuren/main/assets/cocochi-map.jpg" alt="COCOCHI availability map preview" width="100%">
+      </a>
+      <br>
+      <strong>COCOCHI</strong><br>
+      <sub>Availability-map work from a resort operations interface.</sub>
+    </td>
+  </tr>
+</table>
+
 ## About
 
 - Building product sites and internal tools with React, TypeScript, Tailwind CSS, and Convex
