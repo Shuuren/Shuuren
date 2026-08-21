@@ -33,6 +33,24 @@ A design engineer building for the web. I care about how a product feels to use,
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Shuuren/shortcuts-manager">
+        <img src="https://raw.githubusercontent.com/Shuuren/Shuuren/main/assets/shortcuts-manager.jpg" alt="Shortcuts Manager preview" width="100%">
+      </a>
+      <br>
+      <strong>Shortcuts Manager</strong><br>
+      <sub>A visual manager for Leader Key, Raycast, and macOS system shortcuts.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Shuuren/yabai-dimmer">
+        <img src="https://raw.githubusercontent.com/Shuuren/Shuuren/main/assets/yabai-dimmer.jpg" alt="YabaiDimmer focused-window dimming preview" width="100%">
+      </a>
+      <br>
+      <strong>YabaiDimmer</strong><br>
+      <sub>HazeOver-inspired focused-window dimming, brought to yabai.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://renshu.me/">
         <img src="https://raw.githubusercontent.com/Shuuren/Shuuren/main/assets/cocochi-map.jpg" alt="COCOCHI availability map preview" width="100%">
       </a>
