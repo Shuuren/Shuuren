@@ -1,6 +1,6 @@
 # Gabriel Mari S. Flores
 
-Design engineer building interfaces in React, TypeScript, and Convex. I care about how a product feels to use, and most of that work is invisible, which is exactly the point.
+A design engineer building for the web. I care about how a product feels to use, and most of that work is invisible, which is exactly the point.
 
 ## Selected work
 
