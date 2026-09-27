@@ -4,11 +4,11 @@ A design engineer building for the web. I care about how a product feels to use,
 
 ## Selected work
 
+- [pnpm](https://github.com/pnpm/pnpm/pulls?q=is%3Apr+author%3AShuuren+is%3Amerged), 9 merged fixes to the JavaScript package manager in one weekend, found and shipped with AI-assisted workflows
 - [renshu.me](https://renshu.me/), portfolio website
 - [YabaiDimmer](https://github.com/Shuuren/yabai-dimmer), a macOS helper that makes focused-window dimming possible in yabai
 - [YouTube Zen Theater](https://github.com/Shuuren/youtube-zen-theater), a Chrome extension for a viewport-filling YouTube theater mode without browser full-screen
 - [Shortcuts Manager](https://github.com/Shuuren/shortcuts-manager), a visual manager for macOS system, Raycast, and LeaderKey shortcuts
-- [pnpm](https://github.com/pnpm/pnpm/pulls?q=is%3Apr+author%3AShuuren+is%3Amerged), 9 merged fixes to the JavaScript package manager in one weekend, found and shipped with AI-assisted workflows
 
 ## About
 
